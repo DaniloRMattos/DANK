@@ -88,5 +88,5 @@ else:
    print(f'O valor {nim} é Impar)
 ```
 
-valeu guanabara :clap:
+valeu @gustavo guanabara :clap:
 
