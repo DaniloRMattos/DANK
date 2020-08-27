@@ -90,3 +90,28 @@ else:
 
 valeu @gustavo guanabara :clap:
 
+### CITAÇÃO
+
+
+Como **Steve Jobs** disse uma vez:
+
+> Decidir o que não fazer é tão
+
+> importante quanto decidir
+
+> o que fazer
+
+Bela frase!
+
+
+### MENÇÕES A USUARIOS 
+
+Durante o curso, usamos o perfil @gafanhotos para exercitar as ações em Git e GitHub.
+@GAFANHOTOS
+
+
+
+
+
+
+
