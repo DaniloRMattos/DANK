@@ -26,7 +26,7 @@ Material do **curso de git e github**, disponível gratuitamente no canal do *yo
  
  _Itálico_
  
- ˜˜riscado˜˜
+~~Riscado~~ 
  
  
  ### LISTA NUMERADA
@@ -59,5 +59,34 @@ Material do **curso de git e github**, disponível gratuitamente no canal do *yo
  
  ### INCLUINDO IMAGEM
  
+ ![Robo Azul do DAN](https://user-images.githubusercontent.com/30447697/91210218-3fc41080-e6e3-11ea-9442-6c6d7b969f77.jpg)
+ 
+ ### ADICIONAR UM lINK
+ 
+[Acesse meu GitHub](https://github.com/DaniloRMattos)
+ 
+ ### TABELA
+ 
+ ID | NOME | NOTA
+ --- | --- | ---
+ 1 | Danilo | 9,5
+ 2 | Suelen | 11
+ 3 | Silvia | 10
  
  
+ ### COMANDO
+ 
+ Para que serve o Comando `document.getElementbyld()`do JavaScript.
+ 
+### COLOCAR TREXO DO PROGRAMA
+
+```
+num= int(input('Digite um valor')
+if num%2==0
+   print(f'O valor {num} é Par)
+else:
+   print(f'O valor {nim} é Impar)
+```
+
+valeu guanabara :clap:
+
